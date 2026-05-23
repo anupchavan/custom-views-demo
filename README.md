@@ -20,15 +20,6 @@ This is a demo Obsidian vault for the [Custom Views](https://github.com/anupchav
 
 ---
 
-## Required plugins
-
-Install these from Obsidian's Community Plugins browser before using the vault:
-
-- **Custom Views** — the plugin this vault demos
-- **Templater** — runs the TMDB templates that populate note frontmatter
-
----
-
 ## How Custom Views works
 
 The plugin lets you define **views**: each view has a filter rule (which notes it applies to), an HTML template, optional CSS, and optional JavaScript. When you open a matching note, the plugin renders your HTML instead of the default preview, with note frontmatter fields available as template variables.
