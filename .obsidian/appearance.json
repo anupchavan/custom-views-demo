@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "showRibbon": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "pdf"
+  ],
+  "accentColor": "",
+  "translucency": false
+}

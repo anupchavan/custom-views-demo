@@ -1,0 +1,32 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "categories": "multitext",
+    "related": "multitext",
+    "birthday": "date",
+    "rating": "number",
+    "created": "date",
+    "published": "date",
+    "cover": "text",
+    "last": "date",
+    "pages": "number",
+    "isbn": "number",
+    "isbn13": "number",
+    "year": "number",
+    "via": "multitext",
+    "price": "number",
+    "maker": "multitext",
+    "artist": "multitext",
+    "start": "date",
+    "status": "multitext",
+    "guests": "multitext",
+    "episode": "number",
+    "broader": "multitext",
+    "music": "multitext",
+    "cuisine": "multitext",
+    "first": "date",
+    "genres": "multitext"
+  }
+}

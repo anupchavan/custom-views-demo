@@ -1,0 +1,14 @@
+{
+  "minimal-style@@ax1@@light": "#100F0F",
+  "minimal-style@@ax3@@light": "#343331",
+  "minimal-style@@ax2@@light": "#878580",
+  "minimal-style@@ax3@@dark": "#DAD8CE",
+  "minimal-style@@ax1@@dark": "#CECDC3",
+  "minimal-style@@ax2@@dark": "#878580",
+  "minimal-style@@sp1@@dark": "#100F0F",
+  "minimal-style@@sp1@@light": "#CECDC3",
+  "minimal-style@@tabs-style": "tabs-modern",
+  "minimal-style@@minimal-unstyled-tags": false,
+  "minimal-style@@pdf-invert-dark": false,
+  "minimal-style@@pdf-blend-light": false
+}

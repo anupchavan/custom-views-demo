@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "9a6ce4a6fbef406b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b10b8d0b43461fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3def8d83ad0645ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2902631db8167937",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe53e9dd129cbed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b9606c2272ba6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41ef63e8b4250c0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d405bb451cbfa8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c73ed4f873385397",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d13a3c1cccf104",
+        "type": "tabs",
+        "dimension": 64.61100569259962,
+        "children": [
+          {
+            "id": "52312db556713b13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/Everything Everywhere All at Once.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Everything Everywhere All at Once"
+            }
+          },
+          {
+            "id": "10b2f514c48b2159",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "668567fd619bbb16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63fd716c405f0636",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "plot"
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "bd5eaf930bda2d78",
+        "type": "tabs",
+        "dimension": 35.38899430740038,
+        "children": [
+          {
+            "id": "bf6f9238451411f8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "d631d815bf18417d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "References/Oppenheimer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Oppenheimer"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3def8d83ad0645ae",
+  "lastOpenFiles": [
+    "README.md",
+    "testing.md",
+    "Templates/Templater/Learning Template.md",
+    "Templates/Templater/Todo template.md",
+    "References/Anand.md",
+    "References/Choose to see the good side of things.md",
+    "References/Chainsaw Man Reze Arc.md",
+    "References/Custom Views.md",
+    "References/Do Not Expect Too Much from the End of the World.md",
+    "References/Decision to Leave.md",
+    "References/Everything Everywhere All at Once.md",
+    "References/Don't Look Up.md",
+    "References/Humanist Vampire Seeking Consenting Suicidal Person.md",
+    "References/Homebound.md",
+    "References/Masaan.md",
+    "References/Oppenheimer.md",
+    "References/The Amazing Spider-Man 2.md",
+    "References/Swiss Army Man.md",
+    "References/The Disciple.md",
+    "References/Tu Hai Mera Sunday.md",
+    "References/When the truth is found to be lies.md",
+    "References/Yannick.md",
+    "Templates/Templater/TMDB Movie Template.md",
+    "No Other Choice.md",
+    "References/No Other Choice.md",
+    "Podcast episodes.md",
+    "Templates/Bases/Movies.base",
+    "Templates/Bases/Shows.base",
+    "Templates/Bases/Trips.base",
+    "Templates/Bases/Map.base",
+    "Attachments/FLonNonIIDviaRLnKnowledgeDistill.pdf",
+    "Templates/Bases/Everything.base",
+    "Daily/2026/2026-04",
+    "Templates/Bases/Daily.base",
+    "Templates/Bases/Learning.base",
+    "Daily/2024/2024-06",
+    "Attachments/2026/2026-03/2026-03-19 0415 Bidar Rented Home.png",
+    "Attachments/2026/2026-03/2026-03-16 2056 Chai.webp",
+    "Attachments/2026/2026-03/2026-03-16 Cloudy.webp",
+    "Attachments/2026/2026-03/2026-03-16 2051 Third Wave Coffee.webp",
+    "Attachments/2026/2026-03/2026-03-16 2051 Doggy.webp",
+    "Attachments/2026/2026-03/2026-03-16 2109 Room.webp",
+    "Attachments/2026-03-16 Cloudy.jpeg",
+    "Attachments/out-of-control.jpg"
+  ]
+}
